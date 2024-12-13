@@ -50,4 +50,12 @@ a{
     margin-top: 10px;
     font-size: 18px;
     font-weight: bold;
+    
+}
+.ingredients p{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.mainDish-container li{
+    padding: 3px 0;
 }
