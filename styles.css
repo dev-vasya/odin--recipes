@@ -30,3 +30,24 @@ a{
     font-size: 22px;
     list-style: none;
 }
+
+/* Style for dishes pages */
+.mainDish-container{
+    /* height: 100%; */
+    background-color: rgb(161, 243, 161);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+.dish-name{
+    padding: 5px;
+    font-size: 40px;
+}
+.decription,
+.ingredients{
+    margin: 10px 0;
+}
+.preparation p{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
